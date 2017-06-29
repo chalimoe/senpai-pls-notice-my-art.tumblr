@@ -1,0 +1,4 @@
+#post_content p{
+ word-wrap:break-word;
+ padding: 5px;
+}
