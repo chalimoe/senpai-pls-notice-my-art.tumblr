@@ -1,8 +1,29 @@
+.title {
+    padding: 10px 0px 0px 0px;
+    font-size: 1.5em;
+}
+
+.title span{
+    padding: 10px 3px 0px 3px;
+    color: #6aa9f2;
+}
+
 #post_content p{
     word-wrap:break-word;
-    padding: 5px;
+    padding: 10px;
+}
+
+.content p{
+    word-wrap:break-word;
+    padding: 10px;
 }
 
 a{
     color: #ffb1e3;
+}
+
+#chalimoe-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
